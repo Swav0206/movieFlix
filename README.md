@@ -8,7 +8,6 @@ Don't know what to watch ? Just tell which movie you like and it'll show what sh
  Focuses on the blend of powerful machine learning and a user-friendly interface
 
 ![image](https://github.com/user-attachments/assets/01d2c479-2794-41a1-993b-fa003e1f2d07)
-
 ![image](https://github.com/user-attachments/assets/3ff6d34d-ac49-4e70-9bc0-e9027384928f)
 
 
